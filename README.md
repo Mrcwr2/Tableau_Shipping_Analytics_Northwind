@@ -1,4 +1,4 @@
-# Tableau_Shipping_Analytics_Northwind
+# Tableau_Shipping_Analytics_Northwind_Dashboard
 
 ### Objective:
 
